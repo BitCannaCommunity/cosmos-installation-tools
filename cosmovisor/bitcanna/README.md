@@ -15,7 +15,7 @@ wget https://raw.githubusercontent.com/Staketab/node-tools/main/components/golan
 Reboot your terminal after installing.
 
 ## 2. Run COSMOVISOR setup and build.
-Enter Enviroments on the example of the Desmos project:  
+Enter Enviroments on the example of the BitCanna project:  
 `COSMOVISOR_VER = v0.42.9`  
 `GIT_NAME = BitCannaGlobal`  
 `GIT_FOLDER = bcna`  
